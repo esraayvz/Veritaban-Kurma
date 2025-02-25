@@ -1,0 +1,2 @@
+# Veritabanı Oluşturma
+Bu projede, bir pastane işletmesinin yönetimini desteklemek amacıyla gerekli verilerin saklandığı bir şirket veri tabanı tasarımı gerçekleştirildi. Pastanenin ürünleri, satışları ve personel bilgileri gibi veriler, hiyerarşik bir yapı ile düzenlendi. Ayrıca, kullanıcı girişi için bir login ekranı tasarlayıp, veri tabanına bağlantı sağlandı. SQL Server üzerinde veri ekleme, güncelleme ve silme işlemleri yaparak, stored procedure, trigger ve view kullanımı da sağlandı.
