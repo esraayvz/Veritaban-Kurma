@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.Properties.Resources.resources
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.Form1.resources
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.Form2.resources
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\bin\Debug\pastanegiris.exe.config
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\bin\Debug\pastanegiris.exe
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\bin\Debug\pastanegiris.pdb
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.exe
+C:\Users\DELL\source\repos\pastanegiris\pastanegiris\obj\Debug\pastanegiris.pdb
